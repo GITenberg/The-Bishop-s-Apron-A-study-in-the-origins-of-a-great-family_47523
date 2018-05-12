@@ -1,4 +1,8 @@
 _repo: The-Bishop-s-Apron-A-study-in-the-origins-of-a-great-family_47523
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47523-h/images/cover.jpg
 creator:
   author:
     agent_name: Maugham, W. Somerset (William Somerset)
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/126
     wikipedia: http://en.wikipedia.org/wiki/W._Somerset_Maugham
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47523#The-Bishop-s-Apron-A-study-in-the-origins-of-a-great-family
 gutenberg_issued: '2014-12-03'
 gutenberg_type: Text
 identifiers:
